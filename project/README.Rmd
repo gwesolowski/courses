@@ -1,0 +1,14 @@
+---
+title: "Advanced GIS Project Proposal"
+author: "Graham Wesolowski"
+date: "Friday, October 10, 2014"
+output: html_document
+---
+
+Solar energy development has been occurring on a large scale throughout California’s desert regions and is continuing to be developed throughout the state in areas such as the San Joaquin Valley, but landscapes such as the SJV while useful  for solar development, hold cultural and natural resources that cannot be compromised in California’s rush to reduce GHG emissions, therefore our group is determining areas where solar development can occur without sacrificing the SJV’s agricultural or conservation resources in the process.
+
+Our group is interested in modeling the current distribution of the Lost Hills Saltbush  because of its significance to our group project. Our goal is to generate a species distribution model for several species present in the San Joaquin Valley that are either characteristic of a given biotic community or have a special association with a faunal species of high conservation value. By modeling these communities it is our hope that will be able to extrapolate the movement of biotic communities into the future. We hope to accomplish this by using species distribution models, coupled with climate velocity and landscape permiability models. This will allow our group to to better predict areas of prime habitat that will presist even in the face of climate change and a rapidly shifting land use regime within the valley. These areas will be identified by our group as being of particularly high conservation value. 
+
+The species that we will modelin this course is the Lost Hills Saltbush (Atriplex coronata ssp. vallicola). This is a dicot annual herb in the Chenopodaceae family that is native and endemic to California. This plant typically occurs in wetlands but can be found elsewhere as well. Lost Hills Saltbush is included on the California Native Plant Society (CNPS) Inventory of Rare and Endangered Plants on the list [1B.2](rare, threatened or endangered in CA and elsewhere).This will be the first of several similar models that we will generate we will use this opportunity to learn and refine this process for use later in our GP. 
+
+
