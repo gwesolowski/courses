@@ -1,20 +1,28 @@
 ---
 title: "README"
-output: html_document
+By: Graham Wesolowski
 ---
+# Lab 2
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Python Script
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+![](wind_script.py)
 
-```{r}
-summary(cars)
-```
 
-You can also embed plots, for example:
+## Country Max Wind Production
 
-```{r, echo=FALSE}
-plot(cars)
-```
+![](EEZ_wind_map.png)
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Summary of Top Countries
+
+The top 3 countries by MEAN offshore wind speed were:
+
+1. [kereguelen Islands]
+2. [Southern Kuriles]
+3. [St. Pierre and Miquelon]
+
+The top 3 countries by MAX offshore wind speed were:
+
+1. [Russia]
+1. [Mauritis]
+1. [Southern Kuriles]
