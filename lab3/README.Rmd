@@ -1,0 +1,11 @@
+---
+title: "README"
+by: Graham Wesolowski
+output: html_document
+---
+
+1) Along the west coast of Vancouver Island the most exposed coastal hazards are the areas which are not found within natural harbours. The areas inside the inlets and and behind islands along the coast are protected naturally while the areas with open exposures and at the mouth of the bay have a much higher vulerability index. Additionally small islnads are at high risk. These high risk areas are shown in red on the map. 
+
+2) Risk reduction was highest around some of the larger islands. Additionally, the stretch of coast where the road is saw some reduction of risk as well. Many of the areas in along the west coast of Vancouver island are sheletered, as noted above and so changes in habitat quality will have little of no effect here. Additionally, small islands located within the bay did not see an reduction in risk, this could result from the fact that their size means that they are at immenent risk regardless of habitat quality.
+
+3) Habitat restoration should be directed towards the windward side of the large islands as well as the continuous stretches of coast. This would increase the longevity and resiliance of the coastal infrastructure. Additionally these areas to the north of the bay have large areas of intact forest, and so restoration in these areas would creat large continuous areas of habitat along a gradient from forest to intertidal area.
