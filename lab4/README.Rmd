@@ -1,0 +1,8 @@
+---
+title: "Lab4"
+author: "Graham Wesolowski"
+date: "Tuesday, October 28, 2014"
+output: html_document
+---
+
+Here is the lab 4 assignment. 
